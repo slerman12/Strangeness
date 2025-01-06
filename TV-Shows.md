@@ -6,7 +6,7 @@ The rest is just the public speculating about that show’s ratings and the perc
 
 There is no additional factor, so it’s a bit confusing, to think we have an entire economy based on this premise. 
 
-Moreover, it makes me want to make a generalized version of Robinhood, that allows anybody to take *anything* “public,” pricing their stocks however they see fit, advertising them, and that’s all. 
+Moreover, it makes me want to make a generalized version of Robinhood, that allows anybody to take *anything* "public," pricing their stocks however they see fit, advertising them, and that’s all. 
 
 For example, I can sell a stock that weighs in on what I wear to interviews (though I’m writing this January 6, 2025). I could price it pretty low at this time. 
 
